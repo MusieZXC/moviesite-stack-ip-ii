@@ -1,10 +1,14 @@
 # react-movie
 
-    Responsive React Movies App With API
+    Responsive React Movie Stack Website
+    Internet Programming - II - Project
+    
+    HENOK MENGESHA UU78576R
+    Lidya fasil 78643
+    Musie  Amanuel 78657
+    Naol Abdisa 78525
+    Yohannes Bahiru 78448
 
-# Video tutorial
-
-    https://youtu.be/ntYXj9W1Ez8
 
 # Resource
 
